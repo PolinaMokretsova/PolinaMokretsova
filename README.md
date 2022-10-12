@@ -23,7 +23,7 @@
 <a href="https://github.com/polinamokretsova/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=polinamokretsoval&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 
 # Диплом
-<code><img src="media/qaguruLogo.svg"></code>
+<code><img src="media/qaguru.svg"></code>
 
 По итогам обучения в <a href="QA.GURU">QA.GURU</a> представляю дипломную работу.
 Работа состоит из трех частей: UI, API и Mobile App.
