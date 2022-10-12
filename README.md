@@ -20,7 +20,8 @@
 
 
 
-(https://github-readme-stats.vercel.app/api/pin/?username=PolinaMokretsova&repo=github-readme-stats)](https://github.com/PolinaMokretsova/github-readme-stats)
+[![Полина Мокрецова GitHub stats](https://github-readme-stats.vercel.app/api?username=PolinaMokretsova)](https://github.com/PolinaMokretsova/github-readme-stats)
+>
 
 # Диплом
 <code><img src="media/qaguru.svg"></code>
