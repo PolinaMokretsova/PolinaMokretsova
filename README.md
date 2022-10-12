@@ -3,7 +3,7 @@
 **About me**
 
 - 💼 I'm QA Engineer, https://www.linkedin.com/in/polina-mokretsova-361525230/
-- 🌱 I’m learning at QA.GURU
+
 
 **Languages and Tools:**
 
@@ -30,26 +30,26 @@
 
 **Проект UI автотестов**
 ------------------------
-<a href="https://github.com/PolinaMokretsova/demoqa_tests"><img src="media/GitHub.svg" width="25"/> Github</a>
+<a href="https://github.com/PolinaMokretsova/demoqa_tests"><img src="media/github.svg" width="25"/> Github</a>
 
-<a href="https://jenkins.autotests.cloud/job/demoqa_tests/"> <img src="media/Jenkins.svg" width="20"/> Jenkins</a>
+<a href="https://jenkins.autotests.cloud/job/demoqa_tests/"> <img src="media/jenkins.svg" width="20"/> Jenkins</a>
 
-<a href="https://allure.autotests.cloud/"><img src="media/Allure-logo.svg" width="20"/> Allure TestOps Dashboard</a>
+<a href="https://allure.autotests.cloud/"><img src="media/allure.svg" width="20"/> Allure TestOps Dashboard</a>
 
 
 **Проект API автотестов**
 ------------------------
-<a href="https://github.com/PolinaMokretsova/api_tests"><img src="media/GitHub.svg" width="25"/> Github</a>
+<a href="https://github.com/PolinaMokretsova/api_tests"><img src="media/github.svg" width="25"/> Github</a>
 
-<a href="https://jenkins.autotests.cloud/job/api_tests/"><img src="media/Jenkins.svg" width="20"/> Jenkins</a>
+<a href="https://jenkins.autotests.cloud/job/api_tests/"><img src="media/jenkins.svg" width="20"/> Jenkins</a>
 
-<a href="https://allure.autotests.cloud/"><img src="media/Allure-logo.svg" width="20"/> Allure TestOps Dashboard</a>
+<a href="https://allure.autotests.cloud/"><img src="media/allure.svg" width="20"/> Allure TestOps Dashboard</a>
 
 
 **Проект Mobile автотестов**
 ------------------------
-<a href="https://github.com/PolinaMokretsova/browserstack_tests"><img src="media/GitHub.svg" width="25"/> Github</a>
+<a href="https://github.com/PolinaMokretsova/browserstack_tests"><img src="media/github.svg" width="25"/> Github</a>
 
-<a href="https://jenkins.autotests.cloud/job/browserstack_tests/"><img src="media/Jenkins.svg" width="20"/> Jenkins</a>
+<a href="https://jenkins.autotests.cloud/job/browserstack_tests/"><img src="media/jenkins.svg" width="20"/> Jenkins</a>
 
-<a href="https://allure.autotests.cloud/"><img src="media/Allure-logo.svg" width="20"/> Allure TestOps Dashboard</a>
+<a href="https://allure.autotests.cloud/"><img src="media/allure.svg" width="20"/> Allure TestOps Dashboard</a>
