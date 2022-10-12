@@ -20,7 +20,7 @@
 
 
 
-<a href="https://github.com/polinamokretsova/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=polinamokretsoval&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?PolinaMokretsova=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # Диплом
 <code><img src="media/qaguru.svg"></code>
