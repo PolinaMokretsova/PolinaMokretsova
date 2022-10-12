@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-**About me**
 
-- 💼 I'm QA Engineer, https://www.linkedin.com/in/polina-mokretsova-361525230/
+ 💼 I'm QA Engineer, https://www.linkedin.com/in/polina-mokretsova-361525230/
 
 
 **Languages and Tools:**
