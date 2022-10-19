@@ -30,9 +30,9 @@
 
 **Проект UI автотестов**
 ------------------------
-<a href="https://github.com/PolinaMokretsova/demoqa_tests"><img src="media/github.svg" width="25"/> Github</a>
+<a href="https://github.com/PolinaMokretsova/tochka_tests"><img src="media/github.svg" width="25"/> Github</a>
 
-<a href="https://jenkins.autotests.cloud/job/demoqa_tests/"> <img src="media/jenkins.svg" width="20"/> Jenkins</a>
+<a href="https://jenkins.autotests.cloud/job/tochka_tests/"> <img src="media/jenkins.svg" width="20"/> Jenkins</a>
 
 <a href="https://allure.autotests.cloud/"><img src="media/allure.svg" width="20"/> Allure TestOps Dashboard</a>
 
